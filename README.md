@@ -18,3 +18,29 @@ In just a few lines of Python code, you can have an assistant who answers any qu
 Boost your productivity, streamline your workflows, and elevate your AI experience. So follow along and keep reading till the end.
 
 GitHub Report for the above which contains the source code and everything is [here](https://github.com/anishsingh20/Personal-ChatGPT-Bot-For-Mac)
+
+
+### 2 [Model Parameters in OpenAI API](https://anishsinghwalia.medium.com/model-parameters-in-openai-api-161a5b1f8129)
+
+This post breaks down the ChatCompletion.create() Function and find the sweet spot for the parameter values together.
+
+```shell
+Temperature: Controlling andomness and diversity of the Responses
+
+Max Tokens: Limiting the Response Length
+
+Top P (Nucleus Sampling): Controlling Response Quality
+
+n: Generating Multiple Responses
+
+Stop: Customizing Stop Conditions
+
+Frequency Penalty: Controlling Repetitive Responses
+
+Presence Penalty: Controlling Avoidance of Certain Topics
+```
+
+### 3 [Best Practices for Securing Your OpenAI API Key](https://anishsinghwalia.medium.com/safeguarding-your-ai-best-practices-for-securing-your-openai-api-key-67e5e585c59a)
+
+This post explains the Best Practices for Securing Your OpenAI API Keys. Keep your API key secure as environment variables and not share it with anyone. Using HTTPS protocol for all requests and responses and limiting the scope of your API key to only the necessary permissions.
+
