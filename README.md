@@ -50,5 +50,8 @@ This post explains the Best Practices for Securing Your OpenAI API Keys. Keep yo
 Do you want your own AI-powered web-app that can understand your questions and provide helpful answers? Look no further! With the power of Python and Streamlit combined with OpenAI APIs, building a personalized ChatGPT bot is easier than you might think.
 
 
+### 5 [VeLO: The Intelligent Neural Network Optimizer Revolutionizing Deep Learning and Automating Optimization](https://medium.com/@anishsinghwalia/velo-the-intelligent-neural-network-optimizer-revolutionizing-deep-learning-and-automating-b8c2c2d93da2)
+
+VeLO, is a system designed to act as a fully tuned optimizer. It uses a neural network to compute the target network’s updates — A neural network to train and auto-tune another neural network.
 
 
