@@ -44,3 +44,11 @@ Presence Penalty: Controlling Avoidance of Certain Topics
 
 This post explains the Best Practices for Securing Your OpenAI API Keys. Keep your API key secure as environment variables and not share it with anyone. Using HTTPS protocol for all requests and responses and limiting the scope of your API key to only the necessary permissions.
 
+
+### 4 [Personal ChatGPT Bot with Streamlit: Build Your AI Assistant Web app](https://medium.com/@anishsinghwalia/build-your-personal-chatgpt-bot-with-streamlit-and-openai-apis-84a05ab6929b) 
+
+Do you want your own AI-powered web-app that can understand your questions and provide helpful answers? Look no further! With the power of Python and Streamlit combined with OpenAI APIs, building a personalized ChatGPT bot is easier than you might think.
+
+
+
+
