@@ -60,10 +60,11 @@ VeLO, is a system designed to act as a fully tuned optimizer. It uses a neural n
 [ChatBase](https://www.chatbase.co/?via=anish) let's you craft AI chatbots from your data like standard files(PDF, .docx, .txt, .csv, etc.), text files, crawl websites, and much more. Then add it as a widget to your website, blogs using embeds, links or chat with it through its API or build apps on top of it for your Company’s team by training the bot on company’s data securely.
 
 
-### 7 []()
+### 7 [How to Master the Art of ChatGPT Prompt Engineering](https://medium.com/@anishsingh20/ultimate-guide-to-chatgpt-prompt-engineering-boost-ai-productivity-quality-ce44c883ca72)
+
+Prompt engineering is crafting well-defined instructions or stimuli, called prompts, to elicit specific and desired responses from AI language models like ChatGPT. It involves formulating prompts that provide clear context, specify desired outcomes, and guide the AI model toward generating accurate and relevant outputs.
+
+### 8 [Boost Your Productivity with Free OpenAI ChatGPT Chrome Extensions: A Comprehensive Guide](https://medium.com/@anishsingh20/unleash-your-productivity-with-the-best-chat-gpt-opeai-chrome-extensions-in-2023-f26a71da47b8)
 
 
-### 8 []()
-
-
-### 9 []()
+### 9 [AI UX design: 10 Powerful AI Design Tools to Transform Your Creative Process](https://medium.com/@anishsingh20/ai-ux-design-10-powerful-ai-design-tools-to-transform-your-creative-process-86b788493c62)
