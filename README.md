@@ -55,3 +55,15 @@ Do you want your own AI-powered web-app that can understand your questions and p
 VeLO, is a system designed to act as a fully tuned optimizer. It uses a neural network to compute the target network’s updates — A neural network to train and auto-tune another neural network.
 
 
+### 6 [ChatBase: Build an AI Chatbot from Your Data and Transform Your Interaction Experience with data](https://medium.com/@anishsingh20/chatbase-build-an-ai-chatbot-from-your-data-and-enhance-your-interaction-experience-with-data-8aed104c1ee0) 
+
+[ChatBase](https://www.chatbase.co/?via=anish) let's you craft AI chatbots from your data like standard files(PDF, .docx, .txt, .csv, etc.), text files, crawl websites, and much more. Then add it as a widget to your website, blogs using embeds, links or chat with it through its API or build apps on top of it for your Company’s team by training the bot on company’s data securely.
+
+
+### 7 []()
+
+
+### 8 []()
+
+
+### 9 []()
